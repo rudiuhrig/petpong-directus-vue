@@ -209,5 +209,5 @@ $RECYCLE.BIN/
 ### Custom
 
 # Directus example
-#directus/petpong.db
+directus/petpong.db
 directus/uploads/*
